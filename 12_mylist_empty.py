@@ -1,0 +1,1 @@
+my_list=[2,4,"apple", 3.6, True]
